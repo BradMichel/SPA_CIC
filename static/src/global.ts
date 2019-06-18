@@ -1,0 +1,1 @@
+const _global = (window || global) as any
