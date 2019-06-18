@@ -10,7 +10,7 @@
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dates": "^20.2.3",
     "react-dom": "^16.8.6",
-    "react-scripts-ts": "3.1.0"
+    "react-scripts-ts": "^4.0.8"
   },
   "scripts": {
     "start": "react-scripts-ts start",
@@ -25,5 +25,11 @@
     "@types/react-dates": "^17.1.5",
     "@types/react-dom": "^16.8.4",
     "typescript": "^3.5.2"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
